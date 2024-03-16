@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mission10_StewartReedAPI", "Mission10_StewartReedAPI.csproj", "{C8FE0E36-66E6-499E-AC53-0C717D22075E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8FE0E36-66E6-499E-AC53-0C717D22075E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8FE0E36-66E6-499E-AC53-0C717D22075E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8FE0E36-66E6-499E-AC53-0C717D22075E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8FE0E36-66E6-499E-AC53-0C717D22075E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54C1DCB8-14BD-4BCF-960B-12B32AB46AF4}
+	EndGlobalSection
+EndGlobal

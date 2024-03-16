@@ -1,0 +1,6 @@
+@Mission10_StewartReedAPI_HostAddress = http://localhost:5168
+
+GET {{Mission10_StewartReedAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
